@@ -1,5 +1,5 @@
 # Pig-game
-My first simple game! I have been learning a lot from Jonas Schmedtmann's Javascript course and after completing some parts of the course I just finished making this simple Pig game. He is a very good teacher.
+My first simple game! I'm learning a lot from Jonas Schmedtmann's Javascript course and after completing some of the parts of the course I just finished making this simple Pig game. I know I didn't follow the DRY rule. I just wanted my code to work now. By the way he is a very good teacher.
 
 Rules of this Pig game:
 1. You need to roll the dice to accumulate the current scores.
